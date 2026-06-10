@@ -1,0 +1,4 @@
+INFO User login successful
+WARNING High memory usage
+ERROR Database timeout
+CRITICAL Payment service failure
